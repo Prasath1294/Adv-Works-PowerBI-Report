@@ -134,18 +134,10 @@ Contributions are welcome! If you'd like to add enhancements or suggestions, fol
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📧 Contact
 
 **Ramprasath**
 - 📍 Coimbatore, Tamil Nadu
 - 💼 Data Analyst / Financial Analyst Aspirant
-- 📧 Email: [your-email@example.com]
-- 💻 LinkedIn: [Your LinkedIn Profile]
 
 ---
