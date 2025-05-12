@@ -47,10 +47,10 @@ The project demonstrates Power BI best practices, data modeling, DAX calculation
 
 ## 📷 Screenshots
 
-> _Add screenshots here after uploading them in the GitHub repo_
 
-Example:
+Sales Overview:
 ![Sales Overview](Sales_Overview.png)
+Product Breakdown:
 ![Product Breakdown](Product_breakdown.png)
 
 ---
